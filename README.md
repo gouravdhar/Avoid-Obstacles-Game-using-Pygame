@@ -1,2 +1,2 @@
 # Pygame
-A simple game created using pygame
+This is a basic game coded in python using pygame library.
